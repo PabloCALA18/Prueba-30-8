@@ -16,7 +16,7 @@ const IsDivisible = (lista,array) => {
 
 
 
-console.log(filtreado = array.map((lista) => lista.IsDivisible()));
+console.log(filtreado = array.filter((lista) => lista.IsDivisible()));
 
 
 
